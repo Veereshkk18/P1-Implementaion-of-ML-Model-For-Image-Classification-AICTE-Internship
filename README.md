@@ -1,0 +1,2 @@
+# P1-Implementaion-of-ML-Model-For-Image-Classification-AICTE-Internship
+This project involves building a machine learning model for image classification, leveraging deep learning techniques to classify images into predefined categories. The project uses a Convolutional Neural Network (CNN) architecture implemented in TensorFlow and Keras. It includes preprocessing of image datasets, model training.
